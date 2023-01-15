@@ -1,6 +1,6 @@
 # Data-Mining-Project
 
-This is a Data Mining group assignment, entitled: Evaluating Telco Campaign Performance and Predicting Campaign Offer Takers.
+This is a Data Mining group assignment using Talend and SAS ENterprise Miner software, entitled: Evaluating Telco Campaign Performance and Predicting Campaign Offer Takers.
 
 The analysis goals are:
 
